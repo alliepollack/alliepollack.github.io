@@ -9,11 +9,13 @@
 
 p.thick {
   font-weight: bold;
+   
 }
 
 p.thicker {
   font-weight: 900;
-background-color:azure
+   color: #663300;
+
 }
         h2{
             color: darkseagreen;
