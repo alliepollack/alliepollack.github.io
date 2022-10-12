@@ -1,0 +1,23 @@
+
+        body{
+            background-color:antiquewhite
+        } 
+ p.light {
+  font-weight: lighter;
+  color: saddlebrown
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+background-color:azure
+}
+        h2{
+            color: darkseagreen;
+        }
+    h3{
+            color:cadetblue;
+        }
